@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Merriweather:wght@900&display=swap');
+
+
+body {
+    font-family: 'lexend', sans-serif;
+    background-color:#fdedec ;
+    color: #212529;
+}
+h1, h5 {
+    font-family: 'Merriweather', sans-serif;
+    color: #333; 
+    text-transform: uppercase;
+}
+h1{font-weight: 900;}
